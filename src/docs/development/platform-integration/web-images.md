@@ -36,7 +36,7 @@ Each option has its own benefits and drawbacks. For example, the built-in
 elements fit nicely among other HTML elements, and they automatically take
 advantage of browser caching, and built-in image optimization and memory
 management. They allow you to safely display images from arbitrary sources
-(more on than in the CORS section below). `drawImage` is great when the image
+(more on that in the CORS section below). `drawImage` is great when the image
 must fit within other content rendered using the `<canvas>` element. You also
 gain control over image sizing and, when the CORS policy allows it, read the
 pixels of the image back for further processing. Finally, WebGL gives you the
